@@ -10,9 +10,12 @@ module.exports = {
           300:'#ff6363',
           400:'#ccc',
         },
-        fontSize:{
-          'text-mammoth':['10rem',{ lineHeight: '1' }]
-        }
+      },
+      fontSize:{
+        'mammoth': ['8rem', { lineHeight: '1' }],
+      },
+      fontFamily:{
+        'nunito': ['Nunito']
       }
     },
   },
